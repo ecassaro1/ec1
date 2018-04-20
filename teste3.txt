@@ -1,6 +1,5 @@
 do orion,
 e do github... e de novo
-<<<<<<< HEAD
 e novamente no webide orion....
-=======
->>>>>>> branch 'master' of https://github.com/ecassaro1/ec1.git
+
+teste1
