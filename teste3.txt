@@ -1,7 +1,3 @@
 do orion,
-e do github
-
-
-github.gitCommand
-
-C:\Program Files\Git\bin\git.exe
+e do github... e de novo
+amended no webide orion
