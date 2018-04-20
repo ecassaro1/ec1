@@ -1,2 +1,7 @@
 do orion,
 e do github
+
+
+github.gitCommand
+
+C:\Program Files\Git\bin\git.exe
